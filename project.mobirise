@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page5.html",
+    "currentPage": "RECIPE.html",
     "versionFirst": "2.5.2",
     "versionPublish": "4.6.2",
     "name": "DONUT",
@@ -70,7 +70,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "file:///C:/Users/hakim/Desktop/sem5/multimedia/web/p1%20html/web%20kerja/video/How%20to%20Make%20Homemade%20Doughnuts.mp4",
+              "src": "https://www.youtube.com/watch?v=drmMzAe13XU",
               "autoplay": false,
               "loop": false
             }
